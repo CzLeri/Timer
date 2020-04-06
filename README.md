@@ -1,2 +1,3 @@
 # Timer
-block PC go to sleep mode
+
+stop Windows 10 from logging out
