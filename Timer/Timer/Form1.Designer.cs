@@ -68,7 +68,7 @@
             // tBlock
             // 
             this.tBlock.Enabled = true;
-            this.tBlock.Interval = 300000;
+            this.tBlock.Interval = 180000;
             this.tBlock.Tick += new System.EventHandler(this.tBlock_Tick);
             // 
             // fTimer
